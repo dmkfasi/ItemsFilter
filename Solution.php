@@ -126,7 +126,7 @@ $items = [
 	new Item('item_name2',  1000, 12),
 	new Item('item_name3',  100.00, 13),
 	new Item('item_name4',  110.00, 15),
-	new Item('item_name1',  150.00, 16),
+	new Item('item_name1',  50.00, 6),
 ];
 
 $newItemsList = (new Items($items))->filterBy(
