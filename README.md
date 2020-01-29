@@ -1,4 +1,4 @@
-### You given an Item Entity and an Item Collection.
+### You are given an Item Entity and an Item Collection.
 
 ```php
 class Item
